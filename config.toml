@@ -8,6 +8,7 @@ parallel-jobs = 1
 
 [Spotify]
 enabled = true
+build-mode = "both"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
