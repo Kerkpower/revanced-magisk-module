@@ -1,6 +1,6 @@
 {
   "version": "v20.05.46 (patches 5.12.1)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/Kerkpower/revanced-magisk-module/releases/download/4/youtube-revanced-extended-magisk-v20.05.46-all.zip",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/Kerkpower/revanced-magisk-module/releases/download/10/youtube-revanced-extended-magisk-v20.05.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/Kerkpower/revanced-magisk-module/update/build.md"
 }
